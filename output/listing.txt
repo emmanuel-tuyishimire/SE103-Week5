@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 useremmanuel useremmanuel 4096 Oct  4 01:45 .
+drwxr-xr-x 7 useremmanuel useremmanuel 4096 Oct  4 01:34 ..
+-rw-r--r-- 1 useremmanuel useremmanuel    0 Oct  4 01:30 .gitkeep
+-rw-r--r-- 1 useremmanuel useremmanuel  197 Oct  4 01:48 journal.txt
