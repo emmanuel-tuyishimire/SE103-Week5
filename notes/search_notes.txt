@@ -1,0 +1,9 @@
+Student Name: TUYISHIMIRE Emmanuel
+What grep helped me do: 
+The grep tool helped me search inside the actual contents of a file to locate a specific word. It allowed me to instantly extract the exact line I needed without having to open and read the whole file manually.
+What find helped me do: 
+The find tool helped me search for files across my directory structure based on their names. Instead of looking inside the files, it looked at the file names themselves to locate every text file I had created.
+What the pipe helped me do: 
+The pipe allowed me to take the output of one command and instantly feed it into another command as input. Instead of saving a list of files to a temporary file first, I piped the list directly into grep to filter it in one smooth step.
+Difference between > and >>: 
+The single > symbol creates a new file or completely overwrites an existing file with new output. The double >> symbol is safer because it keeps the existing content and just appends the new output to the very bottom of the file.
