@@ -1,0 +1,7 @@
+Student Name: TUYISHIMIRE Emmanuel
+What * meant in my pattern: 
+The asterisk (*) acts as a placeholder that matches zero or more of any character. In my pattern, it meant "find any file that starts with data and ends with .txt regardless of what is in the middle."
+Why I listed matches before copying: 
+I listed the matches first to verify exactly which files the wildcard would select. This prevents accidentally including system files or unrelated documents that happen to share a similar naming structure. It is a crucial step for preventing unintended modifications.
+Why wildcards are dangerous with delete commands: 
+Wildcards are dangerous with delete commands because a simple typo can wipe out an entire directory. For example, accidentally typing a space before the asterisk could tell the system to delete everything in the folder instead of just the intended targets. Since the command line does not have a recycle bin, those deleted files are usually gone forever.
