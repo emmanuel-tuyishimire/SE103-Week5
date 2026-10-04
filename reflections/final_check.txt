@@ -1,0 +1,7 @@
+Student Name: TUYISHIMIRE Emmanuel
+GitHub Username: emmanuel-tuyishimire
+Repository: SE1110935252263-Week4
+Repository URL: https://github.com/emmanuel-tuyishimire/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time: 
+Next time, I would like to explore writing simple bash scripts to automate repetitive tasks instead of just typing single commands. I also want to improve my speed when navigating and editing text directly inside Vim.
